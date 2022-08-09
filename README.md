@@ -13,7 +13,7 @@ I am an integrated M.S/Ph.D student of Electrical & Electronic Engineering at [Y
 
 ### 🏫 Education
 
-* BS in Electrical & Electronic Engineering at Kyung Hee University, Feb. 2022
+* BS in Electrical & Electronic Engineering at Kyung Hee University, Aug. 2022
 
 
 
