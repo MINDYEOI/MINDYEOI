@@ -1,6 +1,6 @@
 ## Hi there👋 I'm Min Jeong Park.
 
-I am an integrated M.S/Ph.D student of Electrical & Electronic Engineering at [Yonsei University](https://www.yonsei.ac.kr/en_sc/) and [KIST](https://www.kist.re.kr/eng/index.do).
+I am an integrated M.S/Ph.D student of Electrical & Electronic Engineering at [Yonsei University](https://www.yonsei.ac.kr/en_sc/) and do study at [KIST](https://www.kist.re.kr/eng/index.do).
 
 
 
