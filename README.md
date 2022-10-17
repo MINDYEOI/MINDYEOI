@@ -6,7 +6,7 @@ I am an integrated M.S/Ph.D student of Electrical & Electronic Engineering at [Y
 
 ### 🧡 Interests
 
-* Computer Vision
+* Re-identification
 
 
 
