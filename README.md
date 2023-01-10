@@ -22,7 +22,7 @@ I am an integrated M.S/Ph.D student of Electrical & Electronic Engineering at [Y
 * **[Now]** [MVP Lab](http://mvp.yonsei.ac.kr/) at Yonsei University, Sep. 2022 ~
 * **[Now]** [VI Group](https://vig.kist.re.kr/) at KIST, Sep. 2022 ~
 * [Visual Media Lab](https://vmlab.khu.ac.kr/) at Kyung Hee University, Aug. 2021 ~ Jun. 2022
-* [Global ICT Internship](), [Traffic Solution Team at Laon People](http://www.laonpeople.com/eng/business/smart_life.php?#206), Jul. 2021 ~ Aug. 2021
+* [Global ICT Internship](https://www.ictintern.or.kr/homepage/trainingCompany/companyListG.do), [Traffic Solution Team at Laon People](http://www.laonpeople.com/eng/business/smart_life.php?#206), Jul. 2021 ~ Aug. 2021
 * iOS Part at [SOPT](http://sopt.org/wp/), Mar. 2021 ~ Jul. 2021
 * Designer at [KHU Tube](https://www.youtube.com/c/%EC%BF%A0%ED%8A%9C%EB%B8%8CKHUTUBE) and [경희어디가](https://www.instagram.com/kyunghee.where/), Jun. 2020 ~ Dec. 2020
 * Promotional ambassador of [Office of University Relations at Kyung Hee University](https://give.khu.ac.kr/), Mar. 2021 ~ Feb. 2022
